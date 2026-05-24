@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdalluh28/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Abdalluh28/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
