@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abdalluh28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abdalluh28/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdalluh28/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/Abdalluh28/LeetCode/tree/master/0044-wildcard-matching) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdalluh28/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abdalluh28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abdalluh28/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Abdalluh28/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Abdalluh28/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdalluh28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Abdalluh28/LeetCode/tree/master/0044-wildcard-matching) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdalluh28/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -144,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abdalluh28/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Abdalluh28/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abdalluh28/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Abdalluh28/LeetCode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdalluh28/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Abdalluh28/LeetCode/tree/master/0044-wildcard-matching) |
 | [2126-destroying-asteroids](https://github.com/Abdalluh28/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abdalluh28/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdalluh28/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
