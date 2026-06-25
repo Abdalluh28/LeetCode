@@ -2,31 +2,16 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
-    let length = 0, ptrOne;
-    let map = new Map();
-
-    for (ptrOne = 0; ptrOne < s.length; ptrOne++) {
-        if (!map.has(s[ptrOne])) {
-            // add it and increment the counter
-
-            map.set(s[ptrOne], ptrOne);
-
-        }else {
-            // remove it and all elements before it
-            // add it with new index and update the counter
-            length = Math.max(length, map.size);
-            for (let [key, value] of map) {
-                map.delete(key);
-                if (key === s[ptrOne]) break;
-            }
-            map.set(s[ptrOne], ptrOne);
-
+var lengthOfLongestSubstring = function (s) {
+    let start = 0, set = new Set();
+    let len = s.length, maxLen = 0;
+    for (let end = 0; end < len; end++) {
+        while (set.has(s[end])) {
+            set.delete(s[start])
+            start++
         }
+        set.add(s[end])
+        maxLen = Math.max(maxLen, end - start + 1)
     }
-
-    length = Math.max(length, map.size);
-
-    return length;
-    // abcebdfj
+    return maxLen
 };
