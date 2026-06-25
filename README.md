@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdalluh28/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abdalluh28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abdalluh28/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdalluh28/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abdalluh28/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abdalluh28/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Abdalluh28/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abdalluh28/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abdalluh28/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abdalluh28/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Abdalluh28/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdalluh28/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -236,4 +241,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Abdalluh28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abdalluh28/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
