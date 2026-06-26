@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Abdalluh28/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Abdalluh28/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Abdalluh28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abdalluh28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdalluh28/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abdalluh28/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Abdalluh28/LeetCode/tree/master/1306-jump-game-iii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abdalluh28/LeetCode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abdalluh28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdalluh28/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abdalluh28/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdalluh28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdalluh28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abdalluh28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abdalluh28/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
