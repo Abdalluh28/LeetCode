@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdalluh28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abdalluh28/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abdalluh28/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0739-daily-temperatures](https://github.com/Abdalluh28/LeetCode/tree/master/0739-daily-temperatures) |
 | [1306-jump-game-iii](https://github.com/Abdalluh28/LeetCode/tree/master/1306-jump-game-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Abdalluh28/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abdalluh28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abdalluh28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdalluh28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdalluh28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Abdalluh28/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abdalluh28/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdalluh28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Abdalluh28/LeetCode/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
