@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Abdalluh28/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdalluh28/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdalluh28/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdalluh28/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdalluh28/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdalluh28/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abdalluh28/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abdalluh28/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/Abdalluh28/LeetCode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdalluh28/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abdalluh28/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Abdalluh28/LeetCode/tree/master/1306-jump-game-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abdalluh28/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abdalluh28/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abdalluh28/LeetCode/tree/master/0037-sudoku-solver) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abdalluh28/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
