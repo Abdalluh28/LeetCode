@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abdalluh28/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abdalluh28/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdalluh28/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdalluh28/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abdalluh28/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/Abdalluh28/LeetCode/tree/master/1306-jump-game-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abdalluh28/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abdalluh28/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abdalluh28/LeetCode/tree/master/0037-sudoku-solver) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -263,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
