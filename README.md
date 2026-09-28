@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdalluh28/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abdalluh28/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
